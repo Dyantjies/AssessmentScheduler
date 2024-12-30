@@ -1,0 +1,17 @@
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\bin\Debug\Semester_1_Assignment_1.exe.config
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\bin\Debug\Semester_1_Assignment_1.exe
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\bin\Debug\Semester_1_Assignment_1.pdb
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.csprojAssemblyReference.cache
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.Form1.resources
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.Form2.resources
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.Form3.resources
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.Form4.resources
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.Form5.resources
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.Form6.resources
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.Form7.resources
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.Form8.resources
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.Properties.Resources.resources
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.csproj.GenerateResource.cache
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.exe
+C:\Users\Just_Teedo\OneDrive - Nelson Mandela University\ICT School\ONT2000\Assignment\Semester_1_Assignment_1\Semester_1_Assignment_1\obj\Debug\Semester_1_Assignment_1.pdb
